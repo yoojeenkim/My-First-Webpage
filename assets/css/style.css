@@ -1,5 +1,43 @@
+
+/* Universal Selector*/
 * {
     font: 16px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Element Selectors */
+body {
+
+}
+
+header {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+main {
+
+}
+
+figure {
+
+}
+
+img {
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    max-width: 30%;
+}
+
+/* Class Selectors */
+.text-center {
+    text-align: center;
+}
