@@ -11,16 +11,17 @@ body {
 }
 
 header {
-
+    height: 80px;
+    width: 100%;
+    background-color:skyblue;
+    position: fixed;
+    top: 0px;
 }
 
 h1 {
 
 }
 
-h2 {
-
-}
 
 main {
 
@@ -38,6 +39,12 @@ img {
 }
 
 /* Class Selectors */
+.nav-section{
+    text-align: right;
+}
+.nav-links {
+    display: inline;
+}
 .text-center {
     text-align: center;
 }
